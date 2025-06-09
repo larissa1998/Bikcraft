@@ -1,7 +1,6 @@
 .tecnologia-bg {
   background-color: var(--cor-11);
-  box-shadow: inset 0 80px var(--cor-0), 
-  inset 0 -80px var(--cor-0);
+  box-shadow: inset 0 80px var(--cor-0), inset 0 -80px var(--cor-0);
 }
 
 .tecnologia {
@@ -22,7 +21,7 @@
   padding-bottom: 160px;
 }
 
-.tecnologia-conteudo > span{
+.tecnologia-conteudo > span {
   display: block;
   margin-bottom: 20px;
 }
@@ -54,7 +53,7 @@
   margin-bottom: 8px;
 }
 
-@media (max-width: 800px){
+@media (max-width: 800px) {
   .tecnologia-bg {
     box-shadow: initial;
   }
